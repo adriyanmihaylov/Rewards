@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rewards.iml" filepath="$PROJECT_DIR$/Rewards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rewards_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Rewards_integrationTest.iml" group="Rewards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rewards_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rewards_main.iml" group="Rewards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rewards_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rewards_test.iml" group="Rewards" />
     </modules>
   </component>
 </project>
