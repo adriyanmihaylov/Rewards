@@ -1,0 +1,2 @@
+# Rewards
+First Grails Application
